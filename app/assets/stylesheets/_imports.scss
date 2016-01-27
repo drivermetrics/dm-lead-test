@@ -1,0 +1,11 @@
+@import "defaults";
+
+@import "compass";
+@import "compass/css3/user-interface";
+@import "compass/css3/images";
+
+// "bootstrap-compass" and "bootstrap-sprockets" must be
+// imported before "bootstrap" and "bootstrap/variables"
+@import "bootstrap-compass";
+@import "bootstrap-sprockets";
+@import "bootstrap";

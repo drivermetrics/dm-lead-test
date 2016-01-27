@@ -1,0 +1,17 @@
+@import "imports";
+
+html {
+  height: 100%;
+}
+
+body {
+  height: 100%;
+  background-color: #E8E8EC;
+  -webkit-font-smoothing: antialiased;
+}
+
+.dm-base.container {
+  background-color: #fff;
+  min-height: 100%;
+  box-shadow: 0px 0px 4px 0px rgba(0,0,0,0.35);
+}
